@@ -1,2 +1,3 @@
 # spring-boot-demo
-Demo project
+Demo project fro mile-stone-1
+From UIT with love
