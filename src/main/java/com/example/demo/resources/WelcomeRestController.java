@@ -12,9 +12,9 @@ import io.swagger.annotations.ApiOperation;
 public class WelcomeRestController {
 
 	@ApiOperation(value = "Get Welcome Message For The Given Name ", response = String.class, tags = "getWelcomeNote")
-	@GetMapping("/welcome/{name}")
+	@GetMapping("/hello/{name}")
 	public String welcome(@PathVariable("name") String name) {
-		return name+", Welcome to UIT Family..!!";
+		return name+", Chào mừng người anh em đến với Mile Stone App!!";
 	}
 
 }
