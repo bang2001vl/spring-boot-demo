@@ -1,6 +1,6 @@
 # spring-boot-demo
 
-Demo project for mile-stone-1
+Demo project for MileStone App
 
 From UIT with love
 
