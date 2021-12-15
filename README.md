@@ -4,4 +4,4 @@ Demo project for MileStone App
 
 From UIT with love
 
-Team: FourOfKinds
+Team: FourOfKind
